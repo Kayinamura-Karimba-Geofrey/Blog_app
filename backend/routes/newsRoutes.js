@@ -167,3 +167,4 @@ router.delete('/:id', deleteNews);
 router.get('/author/:authorId', getNewsByAuthor);
 
 module.exports = router;
+
